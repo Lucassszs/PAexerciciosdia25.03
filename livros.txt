@@ -1,0 +1,3 @@
+LivroFisico;Dom Casmurro;Machado de Assis;1899;320
+LivroDigital;O Pequeno Príncipe;Antoine de Saint-Exupéry;1943;1.2
+LivroFisico;1984;George Orwell;1949;328
